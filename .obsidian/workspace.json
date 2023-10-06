@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_picoCTF/WEB/Client-side-again.md",
+                "file": "2nd Stage MetaRed/An intriguing file.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_picoCTF/WEB/Client-side-again.md",
+                "file": "2nd Stage MetaRed/An intriguing file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_picoCTF/WEB/Client-side-again.md",
+                "file": "2nd Stage MetaRed/An intriguing file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_picoCTF/WEB/Client-side-again.md"
+                "file": "2nd Stage MetaRed/An intriguing file.md"
               }
             }
           },
@@ -158,11 +158,19 @@
   },
   "active": "d0b909611ce4a2f1",
   "lastOpenFiles": [
-    "Retos_picoCTF/WEB/picobrowser.md",
+    "2nd Stage MetaRed/Intercepting Communication.md",
+    "2nd Stage MetaRed/Hidden instruction.md",
+    "2nd Stage MetaRed/Discord.md",
+    "2nd Stage MetaRed/An intriguing file.md",
+    "Retos_picoCTF/WEB/Irish-Name-Repo 3.md",
+    "2nd Stage MetaRed",
+    "Retos_picoCTF/WEB/Irish-Name-Repo 2.md",
+    "Retos_picoCTF/WEB/Irish-Name-Repo 1.md",
+    "Retos_picoCTF/WEB/where are the robots.md",
     "Retos_picoCTF/WEB/Client-side-again.md",
+    "Retos_picoCTF/WEB/picobrowser.md",
     "Retos_picoCTF/WEB/dont-use-client-side.md",
     "Retos_picoCTF/WEB/logon.md",
-    "Retos_picoCTF/WEB/where are the robots.md",
     "Retos_picoCTF/WEB/Level 0 1.md",
     "Retos_picoCTF/WEB/Insp3ct0r.md",
     "Retos_Bandit/Level 0.md",
@@ -179,13 +187,6 @@
     "primer-examen-parcial/parte2/8- what's a net cat?.md",
     "primer-examen-parcial/parte2/7- strings it.md",
     "primer-examen-parcial/parte2/6- fixme1.py.md",
-    "primer-examen-parcial/parte2/5- First Grep.md",
-    "Retos_Bandit/Level 16 -> 17.md",
-    "primer-examen-parcial/parte2/4- convertme.py.md",
-    "primer-examen-parcial/parte2/1- 2Warm.md",
-    "primer-examen-parcial/parte2/3- Codebook.md",
-    "primer-examen-parcial/parte2/2- Bases.md",
-    "primer-examen-parcial/parte1/1- Obedient Cat.md",
     "primer-examen-parcial/parte3",
     "primer-examen-parcial/parte2",
     "primer-examen-parcial/parte1",
