@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd Stage MetaRed/An intriguing file.md",
+                "file": "2nd Stage MetaRed/Poor_security.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Stage MetaRed/An intriguing file.md",
+                "file": "2nd Stage MetaRed/Poor_security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd Stage MetaRed/An intriguing file.md",
+                "file": "2nd Stage MetaRed/Poor_security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2nd Stage MetaRed/An intriguing file.md"
+                "file": "2nd Stage MetaRed/Poor_security.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "d0b909611ce4a2f1",
   "lastOpenFiles": [
+    "2nd Stage MetaRed/CUCI.md",
+    "2nd Stage MetaRed/An intriguing file.md",
     "2nd Stage MetaRed/Intercepting Communication.md",
     "2nd Stage MetaRed/Hidden instruction.md",
     "2nd Stage MetaRed/Discord.md",
-    "2nd Stage MetaRed/An intriguing file.md",
     "Retos_picoCTF/WEB/Irish-Name-Repo 3.md",
     "2nd Stage MetaRed",
     "Retos_picoCTF/WEB/Irish-Name-Repo 2.md",
@@ -186,7 +187,6 @@
     "primer-examen-parcial/parte3/1- fixme2.py.md",
     "primer-examen-parcial/parte2/8- what's a net cat?.md",
     "primer-examen-parcial/parte2/7- strings it.md",
-    "primer-examen-parcial/parte2/6- fixme1.py.md",
     "primer-examen-parcial/parte3",
     "primer-examen-parcial/parte2",
     "primer-examen-parcial/parte1",
