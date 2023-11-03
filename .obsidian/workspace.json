@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_picoCTF/Forensic/tunn3l v1s10n.md",
+                "file": "segundo-examen-parcial/parte 2/St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_picoCTF/Forensic/tunn3l v1s10n.md",
+                "file": "segundo-examen-parcial/parte 2/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_picoCTF/Forensic/tunn3l v1s10n.md",
+                "file": "segundo-examen-parcial/parte 2/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_picoCTF/Forensic/tunn3l v1s10n.md"
+                "file": "segundo-examen-parcial/parte 2/St3g0.md"
               }
             }
           },
@@ -171,41 +171,44 @@
   },
   "active": "bac63eb19cf5ba85",
   "lastOpenFiles": [
+    "Retos_picoCTF/Crypto/HideToSee.md",
+    "Retos_picoCTF/Crypto/Easy1.md",
+    "Retos_picoCTF/Crypto/caesar.md",
+    "Retos_picoCTF/Crypto/basic-mod1.md",
+    "segundo-examen-parcial/parte 2/St3g0.md",
+    "segundo-examen-parcial/parte 2/information.md",
+    "segundo-examen-parcial/parte 2/Lookey here.md",
+    "segundo-examen-parcial/parte 2/Redaction gone wrong.md",
+    "segundo-examen-parcial/parte 2/Enhance!.md",
+    "Retos_picoCTF/Crypto/ReadMyCert.md",
+    "Retos_picoCTF/Crypto/Mind your Ps and Qs.md",
+    "Retos_picoCTF/Crypto/Pixelated.md",
+    "todo.png",
+    "Retos_picoCTF/Crypto/13.md",
+    "segundo-examen-parcial/parte 2/Packets Primer.md",
+    "segundo-examen-parcial/parte 2/Wireshark doo dooo do doo.md",
+    "segundo-examen-parcial/parte 1/SQL Direct.md",
+    "segundo-examen-parcial/parte 2",
+    "segundo-examen-parcial/parte 1/Includes.md",
+    "segundo-examen-parcial/parte 1/Inspect HTML.md",
+    "segundo-examen-parcial/parte 1/Forbidden Paths.md",
+    "segundo-examen-parcial/parte 1/Secrets.md",
+    "segundo-examen-parcial/parte 1/Roboto Sans.md",
+    "segundo-examen-parcial/parte 1/Power Cookie.md",
+    "segundo-examen-parcial/parte 1/Search source.md",
+    "segundo-examen-parcial/parte 1/Local Authority.md",
+    "Retos_picoCTF/WEB/Irish-Name-Repo 1.md",
+    "Retos_picoCTF/WEB/Irish-Name-Repo 3.md",
+    "segundo-examen-parcial/parte 1",
+    "segundo-examen-parcial",
     "Despues de editar.png",
     "Antes de Editar.png",
-    "Retos_picoCTF/Crypto/waves over lambda.md",
-    "Retos_picoCTF/Crypto/Tapping.md",
-    "Retos_picoCTF/Crypto/The Numbers.md",
-    "Retos_picoCTF/Crypto/la cifra de.md",
-    "Retos_picoCTF/Crypto/caesar.md",
-    "Retos_picoCTF/Crypto/13.md",
-    "Retos_picoCTF/Crypto/Easy1.md",
-    "Retos_picoCTF/Forensic/extensions.md",
-    "Retos_picoCTF/Forensic/MacroHard WeakEdge.md",
     "Retos_picoCTF/Crypto",
-    "Retos_picoCTF/Forensic/tunn3l v1s10n.md",
-    "Retos_picoCTF/Forensic/m00nwalk.md",
-    "Retos_picoCTF/Forensic/Matryoshka doll.md",
-    "Retos_picoCTF/Forensic/So Meta.md",
-    "Retos_picoCTF/Forensic/WebNet1.md",
-    "Retos_picoCTF/Forensic/WebNet0.md",
-    "Retos_picoCTF/Forensic/shark on wire 2.md",
-    "Retos_picoCTF/Forensic/shark on wire 1.md",
-    "Retos_picoCTF/Forensic/like1000.md",
-    "Retos_picoCTF/Forensic/WhitePages.md",
-    "Retos_picoCTF/Forensic/Glory of the Graden.md",
-    "Retos_picoCTF/WEB/Cookies.md",
-    "Retos_picoCTF/WEB/dont-use-client-side.md",
-    "Retos_picoCTF/WEB/GET aHEAD.md",
-    "Retos_picoCTF/WEB/Insp3ct0r.md",
-    "Retos_picoCTF/WEB/Irish-Name-Repo 3.md",
     "Retos_picoCTF/Forensic",
     "2nd Stage MetaRed",
     "Retos_picoCTF/WEB",
     "Retos_picoCTF",
     "primer-examen-parcial/parte3",
-    "primer-examen-parcial/parte2",
-    "primer-examen-parcial/parte1",
-    "primer-examen-parcial"
+    "primer-examen-parcial/parte2"
   ]
 }
