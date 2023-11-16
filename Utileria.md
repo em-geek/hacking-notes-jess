@@ -4,6 +4,7 @@ Documento con paginas y programas
 
 - https://gchq.github.io/CyberChef/
 - https://onlinetools.com/ascii/convert-decimal-to-ascii
+- https://playcode.io/javascript
 
 ## Programas
 - https://obsidian.md/
