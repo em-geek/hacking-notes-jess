@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_picoCTF/Reversing/reverse_cipher.md",
+                "file": "tercer-examen-parcial/Parte 2 - Retos Reversing/GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_picoCTF/Reversing/reverse_cipher.md",
+                "file": "tercer-examen-parcial/Parte 2 - Retos Reversing/GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_picoCTF/Reversing/reverse_cipher.md",
+                "file": "tercer-examen-parcial/Parte 2 - Retos Reversing/GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_picoCTF/Reversing/reverse_cipher.md"
+                "file": "tercer-examen-parcial/Parte 2 - Retos Reversing/GDB baby step 2.md"
               }
             }
           },
@@ -171,33 +171,37 @@
   },
   "active": "bac63eb19cf5ba85",
   "lastOpenFiles": [
-    "Retos_picoCTF/Reversing/asm1.md",
+    "tercer-examen-parcial/Parte 2 - Retos Reversing/ASCII FTW.md",
+    "tercer-examen-parcial/Parte 1 - Retos Crypto/SRA.md",
+    "tercer-examen-parcial/Parte 2 - Retos Reversing/GDB baby step 2.md",
+    "tercer-examen-parcial/Parte 2 - Retos Reversing/GDB baby step 1.md",
+    "tercer-examen-parcial/Parte 2 - Retos Reversing/Bit-O-Asm-4.md",
+    "tercer-examen-parcial/Parte 2 - Retos Reversing/Bit-O-Asm-3.md",
+    "tercer-examen-parcial/Parte 2 - Retos Reversing/Bit-O-Asm-1.md",
+    "tercer-examen-parcial/Parte 2 - Retos Reversing/Bit-O-Asm-2.md",
+    "tercer-examen-parcial/Parte 1 - Retos Crypto/Flags.md",
+    "tercer-examen-parcial/Parte 1 - Retos Crypto/Mr-Worldwide.md",
+    "tercer-examen-parcial/Parte 1 - Retos Crypto/Vigenere.md",
+    "tercer-examen-parcial/Parte 1 - Retos Crypto/transposition-trial.md",
     "Retos_picoCTF/Reversing/reverse_cipher.md",
-    "Retos_picoCTF/Reversing/Safe Opener 2.md",
     "Retos_picoCTF/Reversing/Need For Speed.md",
-    "Retos_picoCTF/Reversing/vault-door-training.md",
-    "Retos_picoCTF/Reversing/vault-door-4.md",
     "Retos_picoCTF/Reversing/GDB Test Drive.md",
     "Retos_picoCTF/Reversing/asm3.md",
     "Retos_picoCTF/Reversing/asm2.md",
+    "tercer-examen-parcial/Parte 2 - Retos Reversing",
+    "tercer-examen-parcial/Parte 1 - Retos Crypto",
+    "Sin título",
+    "Retos_Bandit/Level 0.md",
+    "tercer-examen-parcial",
+    "Retos_picoCTF/Reversing/asm1.md",
+    "Retos_picoCTF/Reversing/Safe Opener 2.md",
+    "Retos_picoCTF/Reversing/vault-door-training.md",
+    "Retos_picoCTF/Reversing/vault-door-4.md",
     "Retos_picoCTF/Reversing/vault-door-3.md",
     "Retos_picoCTF/Reversing/vault-door-1.md",
     "Utileria.md",
     "Retos_picoCTF/Reversing/vault-door-5.md",
-    "Retos_picoCTF/Crypto/13.md",
-    "Retos_picoCTF/Crypto/Mind your Ps and Qs.md",
     "Retos_picoCTF/Reversing",
-    "README.md",
-    "Retos_picoCTF/Crypto/README.md",
-    "Retos_picoCTF/Crypto/b00tl3gRSA2.md",
-    "Retos_picoCTF/Crypto/ReadMyCert.md",
-    "Retos_picoCTF/Crypto/Pixelated.md",
-    "Retos_picoCTF/Crypto/HideToSee.md",
-    "Retos_picoCTF/Crypto/basic-mod1.md",
-    "Retos_picoCTF/Crypto/miniRSA.md",
-    "Retos_picoCTF/Crypto/rsa-pop-quiz.md",
-    "Retos_picoCTF/Crypto/Easy1.md",
-    "segundo-examen-parcial/parte 2/St3g0.md",
     "todo.png",
     "segundo-examen-parcial/parte 2",
     "segundo-examen-parcial/parte 1",
@@ -205,10 +209,6 @@
     "Despues de editar.png",
     "Antes de Editar.png",
     "Retos_picoCTF/Crypto",
-    "Retos_picoCTF/Forensic",
-    "2nd Stage MetaRed",
-    "Retos_picoCTF/WEB",
-    "Retos_picoCTF",
-    "primer-examen-parcial/parte3"
+    "Retos_picoCTF/Forensic"
   ]
 }
